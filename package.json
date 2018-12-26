@@ -1,0 +1,19 @@
+{
+  "name": "@nderkim/splitpem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nderkim/splitpem.git"
+  },
+  "author": "alex",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/nderkim/splitpem/issues"
+  },
+  "homepage": "https://github.com/nderkim/splitpem#readme"
+}
